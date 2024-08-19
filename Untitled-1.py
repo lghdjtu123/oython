@@ -1,2 +1,8 @@
 print("A")
 print("b")
+print("A")
+print("b")
+print("A")
+print("b")
+print("A")
+print("b")
